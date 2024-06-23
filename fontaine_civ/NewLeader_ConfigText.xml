@@ -2,33 +2,33 @@
 <GameData>
 	<LocalizedText>
 		<Row Tag="LOC_CIVILIZATION_FONTAINE_NAME" Language="en_US">
-			<Text>Fontiane</Text>
+			<Text>Fontaine</Text>
 		</Row>
 		
-		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
-			<Text>The Majestic Felines</Text>
+		<Row Tag="LOC_CIVILIZATION_FONTAINE_DESCRIPTION" Language="en_US">
+			<Text>Fontaine</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="en_US">
-			<Text>Feline</Text>
+		<Row Tag="LOC_CIVILIZATION_FONTAINE_ADJECTIVE" Language="en_US">
+			<Text>Fontanian</Text>
 		</Row>
 		
-		<Row Tag="LOC_LEADER_JASPER_KITTY_NAME" Language="en_US">
-			<Text>Jasper Kitty</Text>
+		<Row Tag="LOC_LEADER_FURINA_NAME" Language="en_US">
+			<Text>Furina</Text>
 		</Row>
 
-		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
-			<Text>Cat like reflexes</Text>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FONTAINE_NAME" Language="en_US">
+			<Text>PLACEHOLDER</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
-			<Text>So fast!</Text>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FONTAINE_DESCRIPTION" Language="en_US">
+			<Text>placeholder</Text>
 		</Row>
 		
-		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
-			<Text>Kitty Claws</Text>
+		<Row Tag="LOC_TRAIT_LEADER_FURINA_NAME" Language="en_US">
+			<Text>let the people rejoice!</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
-			<Text>So sharp!</Text>
+		<Row Tag="LOC_TRAIT_LEADER_FURINA_DESCRIPTION" Language="en_US">
+			<Text>womp womp furina cries alone</Text>
 		</Row>
 
 		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">

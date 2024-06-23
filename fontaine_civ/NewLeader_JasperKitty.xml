@@ -7,13 +7,13 @@
 	<Leaders>
 		<Row>
 			<LeaderType>LEADER_JASPER_KITTY</LeaderType>
-			<Name>LOC_LEADER_JASPER_KITTY_NAME</Name>
+			<Name>LOC_LEADER_FURINA_NAME</Name>
 			<InheritFrom>LEADER_DEFAULT</InheritFrom>
 		</Row>
 	</Leaders>
 
 	<LeaderQuotes>
-		<Row LeaderType="LEADER_JASPER_KITTY" Quote="LOC_LEADER_JASPER_KITTY_QUOTE"/>
+		<Row LeaderType="LEADER_JASPER_KITTY" Quote="LOC_LEADER_FURINA_QUOTE"/>
 	</LeaderQuotes>
 	
 </GameData>
