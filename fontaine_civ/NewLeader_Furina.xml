@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Types>
-		<Row Type="LEADER_JASPER_KITTY" Kind="KIND_LEADER" />
+		<Row Type="LEADER_FURINA" Kind="KIND_LEADER" />
 	</Types>
 
 	<Leaders>
 		<Row>
-			<LeaderType>LEADER_JASPER_KITTY</LeaderType>
+			<LeaderType>LEADER_FURINA</LeaderType>
 			<Name>LOC_LEADER_FURINA_NAME</Name>
 			<InheritFrom>LEADER_DEFAULT</InheritFrom>
 		</Row>
 	</Leaders>
 
 	<LeaderQuotes>
-		<Row LeaderType="LEADER_JASPER_KITTY" Quote="LOC_LEADER_FURINA_QUOTE"/>
+		<Row LeaderType="LEADER_FURINA" Quote="LOC_LEADER_FURINA_QUOTE"/>
 	</LeaderQuotes>
 	
 </GameData>

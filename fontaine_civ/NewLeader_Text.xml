@@ -7,16 +7,16 @@
 		</Row>
 
 		<!-- Leader specific pedia text. -->
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASPER_KITTY_CHAPTER_CAPSULE_BODY" Language="en_US">
-			<Text>Jasper kitty is a charismatic and typically friendly feline.  He prefers diplomatic trades that involve food.</Text>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FURINA_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>furina is a charismatic and typically friendly feline.  He prefers diplomatic trades that involve food.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASPER_KITTY_CHAPTER_DETAILED_BODY" Language="en_US">
-			<Text>Jasper kitty likes to hide in his fort and attack when others least expect it.  He is particularly skilled at tripping people.</Text>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FURINA_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>furina likes to hide in his fort and attack when others least expect it.  He is particularly skilled at tripping people.</Text>
 		</Row>
 		
 		<!-- Leader specific historical text. -->
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASPER_KITTY_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>Born in 2010, Jasper kitty grew to power at a young age...</Text>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FURINA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Born in 2010, furina grew to power at a young age...</Text>
 		</Row>
 
 		<!-- Civilization specific historical text. -->
@@ -38,7 +38,7 @@
 			<Text>Tom</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FELINE_FEMALE_1" Language="en_US">
-			<Text>Miss Kitty</Text>
+			<Text>Miss furina</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FELINE_FEMALE_2" Language="en_US">
 			<Text>Callie</Text>
@@ -100,15 +100,15 @@
 		</Row>
     
     <!-- Leader Dialog -->
-    <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JASPER_KITTY_ANY" Language="en_US">
+    <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FURINA_ANY" Language="en_US">
       <Text>Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me.</Text>
     </Row>
 
-    <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JASPER_KITTY_ANY" Language="en_US">
+    <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FURINA_ANY" Language="en_US">
       <Text>Tea parties are a must for the well-mannered. If you'd like to learn the proper etiquette, I'd be happy to teach you.</Text>
     </Row>
 
-    <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JASPER_KITTY_ANY" Language="en_US">
+    <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FURINA_ANY" Language="en_US">
       <Text>Let me rub my face on all of your stuff so that it will be mine.</Text>
     </Row>
 	</LocalizedText>
