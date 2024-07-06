@@ -104,12 +104,39 @@
       <Text>Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me.</Text>
     </Row>
 
+	
     <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FURINA_ANY" Language="en_US">
       <Text>Tea parties are a must for the well-mannered. If you'd like to learn the proper etiquette, I'd be happy to teach you.</Text>
     </Row>
-
+	
+	<!--
     <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FURINA_ANY" Language="en_US">
-      <Text>Let me rub my face on all of your stuff so that it will be mine.</Text>
+      <Text>uh a</Text>
     </Row>
+	-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_FURINA_ANY" Language="en_US">
+      <Text>I, Focalors, hereby welcome you to the nation of Hydro and acknowledge the value and significance of your trip. Now, you may rejoice in this!</Text>
+    </Row>
+
+
+	<!-- Friendship -->
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_FURINA_ANY" Language="en_US">
+      <Text>I, Focalors, acknowledge your achievements, and extend to you an offer of a declaration of friendship between our nations.</Text>
+    </Row>
+
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_$(LEADER)_$(MOOD)" Language="en_US">
+      <Text>I didn't know you cared so much about me. In that case, then let us act out our future journey together!</Text>
+    </Row>
+
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_$(LEADER)_$(MOOD)" Language="en_US">
+      <Text>You had best stop and consider... do you really have the noble qualities and etiquette necessary to communicate with a god?</Text>
+    </Row>
+
+
+	<!-- War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_$(LEADER)_$(MOOD)" Language="en_US">
+      <Text>you bih!</Text>
+    </Row>
+
 	</LocalizedText>
 </GameData>
